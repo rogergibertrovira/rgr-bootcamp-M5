@@ -1,4 +1,3 @@
-# rgr-bootcamp-M5
-Introducción API REST
+# rgr-bootcamp-M5 - Introducción API REST
 
-## Capturas dentro de Postman
+Capturas dentro de Postman
